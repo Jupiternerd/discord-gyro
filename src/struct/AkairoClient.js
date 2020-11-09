@@ -18,7 +18,7 @@ class AkairoClient extends Client {
 
         this.menuTime = 90000;
 
-        this.footer = '';
+        this.footer = { };
 
         this.secondaryColor = '';
 

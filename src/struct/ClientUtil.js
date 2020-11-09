@@ -389,7 +389,7 @@ class ClientUtil {
     attachment(file, name) {
         return new MessageAttachment(file, name);
     }
-
+    
     /**
      * Makes a Collection.
      * @param {Iterable} [iterable] - Entries to fill with.
