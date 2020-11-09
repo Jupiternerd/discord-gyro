@@ -14,6 +14,17 @@ class AkairoClient extends Client {
 
         const { ownerID = '' } = options;
 
+        this.mainColor = '';
+
+        this.menuTime = 90000;
+
+        this.footer = '';
+
+        this.secondaryColor = '';
+
+        this.invite = '';
+        this.invite_server = '';
+
         /**
          * The ID of the owner(s).
          * @type {Snowflake|Snowflake[]}
