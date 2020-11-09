@@ -1,7 +1,7 @@
 {
-    "name": "discord-akairo",
+    "name": "discord-gyro",
     "version": "8.1.0",
-    "description": "A highly customizable bot framework for Discord.js.",
+    "description": "A highly customizable bot framework for Discord.js. Forked by me Wai",
     "main": "./src/index.js",
     "types": "./src/index.d.ts",
     "author": "1Computer",
