@@ -22,6 +22,9 @@ class AkairoClient extends Client {
 
         this.secondaryColor = '';
 
+        this.errorArt = '';
+        this.logArt = '';
+
         this.invite = '';
         this.invite_server = '';
 
